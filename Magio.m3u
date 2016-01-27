@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,Nova Sport
+http://213.81.153.240/live001/smil:channel028_g3.smil/chunklist_w95998276_b1000000.m3u8
+#EXTINF:-1,CT4
+http://80.188.78.181:80/atip/e29d1b7ecef563c822798ae3d41428ad/1453917614472/919166b24292abbae73792c14919091c/402-tv-pc/1503.m3u8
+#EXTINF:-1,DigiSport 1
+http://213.81.170.239/live002/smil:channel023_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 2
+http://213.81.153.243/live003/smil:channel024_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 3
+http://213.81.153.240/live001/smil:channel026_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 4
+http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
+#EXTINF:-1,Sport 1
+http://213.81.170.239/live002/smil:channel044_g3.smil/index.m3u8
+#EXTINF:-1,Sport 2
+http://213.81.153.243/live003/smil:channel045_g3.smil/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://213.81.153.243/live003/smil:channel013_g3.smil/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://213.81.153.240/live001/smil:channel014_g3.smil/index.m3u8
+#EXTINF:-1,Jednotka
+http://213.81.153.240/live001/smil:channel001_g3.smil/index.m3u8
+#EXTINF:-1,Dvojka
+http://213.81.153.240/live001/smil:channel002_g3.smil/index.m3u8
+#EXTINF:-1,ČT 1
+http://213.81.153.240/live001/smil:channel031_g3.smil/index.m3u8
+#EXTINF:-1,ČT 2
+http://213.81.153.240/live001/smil:channel032_g3.smil/index.m3u8
+#EXTINF:-1,Markíza
+http://213.81.153.243/live003/smil:channel003_g3.smil/index.m3u8
+#EXTINF:-1,DajTo
+http://213.81.153.243/live003/smil:channel004_g3.smil/index.m3u8
+#EXTINF:-1,Doma
+http://213.81.153.243/live003/smil:channel011_g3.smil/index.m3u8
+#EXTINF:-1,JOJ
+http://213.81.170.239/live002/smil:channel005_g3.smil/index.m3u8
+#EXTINF:-1,JOJ Plus
+http://213.81.170.239/live002/smil:channel006_g3.smil/index.m3u8
+#EXTINF:-1,Spektrum
+http://213.81.153.240/live001/smil:channel054_g3.smil/index.m3u8
+#EXTINF:-1,Discovery
+http://213.81.153.240/live001/smil:channel034_g3.smil/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://213.81.153.243/live003/smil:channel009_g3.smil/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://213.81.153.243/live003/smil:channel039_g3.smil/index.m3u8
+#EXTINF:-1,Viasat History
+http://213.81.153.243/live003/smil:channel038_g3.smil/index.m3u8
+#EXTINF:-1,Travel
+http://213.81.153.243/live003/smil:channel012_g3.smil/index.m3u8
+#EXTINF:-1,AXN
+http://213.81.153.240/live001/smil:channel046_g3.smil/index.m3u8
+#EXTINF:-1,AXN White
+http://213.81.153.243/live003/smil:channel041_g3.smil/index.m3u8
+#EXTINF:-1,AXN Black
+http://213.81.153.243/live003/smil:channel042_g3.smil/index.m3u8
+#EXTINF:-1,FilmBox Plus
+http://213.81.153.243/live003/smil:channel043_g3.smil/index.m3u8
+#EXTINF:-1,FilmBox
+http://213.81.153.240/live001/smil:channel018_g3.smil/index.m3u8
+#EXTINF:-1,Cextra
+http://213.81.153.243/live003/smil:channel022_g3.smil/index.m3u8
+#EXTINF:-1,AMC
+http://213.81.153.240/live001/smil:channel052_g3.smil/index.m3u8
+#EXTINF:-1,NickLeodon
+http://213.81.170.239/live002/smil:channel047_g3.smil/index.m3u8
+#EXTINF:-1,Megamax
+http://213.81.153.240/live001/smil:channel049_g3.smil/index.m3u8
+#EXTINF:-1,Disney
+http://213.81.153.243/live003/smil:channel051_g3.smil/index.m3u8
